@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9q9qvBzlXQSA5gF80hVWcDaDjz2x+WDwTdbycThFCxJr9hDVCXZRuv29YlyI2/5iUsxRrOG5h7Us6Zhvz+xpSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexandre\\OneDrive - Cégep de Victoriaville\\Bureau\\Projet\\Projet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandre\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\Alexandre\\.nuget\\packages\\ironsoftware.system.drawing\\2023.9.2\\ironsoftware.system.drawing.2023.9.2.nupkg.sha512",
+    "C:\\Users\\Alexandre\\.nuget\\packages\\ironxl.excel\\2023.9.29\\ironxl.excel.2023.9.29.nupkg.sha512",
+    "C:\\Users\\Alexandre\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Alexandre\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512",
+    "C:\\Users\\Alexandre\\.nuget\\packages\\sixlabors.imagesharp.drawing\\1.0.0\\sixlabors.imagesharp.drawing.1.0.0.nupkg.sha512",
+    "C:\\Users\\Alexandre\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
